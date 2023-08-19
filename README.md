@@ -27,7 +27,7 @@ Atualmente, também estou realizando um curso de desenvolvimento web pela Alura 
 
   
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AzevedoRenan13&bg_color=000&border_color=24f4ff&title_color=24f4ff&text_color=24f4ff)![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzevedoRenan13&theme=transparent&bg_color=000&border_color=24f4ff&show_icons=true&icon_color=24f4ff&title_color=24f4ff&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AzevedoRenan13&bg_color=000&border_color=24f4ff&title_color=24f4ff&text_color=24f4ff) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzevedoRenan13&theme=transparent&bg_color=000&border_color=24f4ff&show_icons=true&icon_color=24f4ff&title_color=24f4ff&text_color=FFF)
 
   
 

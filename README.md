@@ -23,7 +23,7 @@ Atualmente, também estou realizando um curso de desenvolvimento web pela Alura 
   
   
 
-<h3  align="left">💻 Account Stats</h3>
+<h3  align="left">💻 Status das minhas atividades</h3>
 
   
 

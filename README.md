@@ -6,9 +6,9 @@ Olá!
 
   
 
-Me chamo Renan, tenho 24 anos e sou profissional de desenvolvimento web. Desde 2019, tenho me dedicado a aprimorar minhas habilidades em programação. Atualmente, estou participando de um bootcamp de Angular + Java fullstack patrocinado pelo Santander para expandir ainda mais meu conhecimento.
+Me chamo Renan, tenho 24 anos e sou profissional de desenvolvimento web. Desde 2019, tenho me dedicado a aprimorar minhas habilidades em programação. Atualmente, participei de um bootcamp de Angular + Java fullstack patrocinado pelo Santander para expandir ainda mais meu conhecimento.
 
-Atualmente, também estou realizando um curso de desenvolvimento web pela Alura para expandir meu conhecimento.
+Atualmente, faço pós graduação de Desenvolvimento Web Fullstack.
 
   
 
